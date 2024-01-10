@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raynersa91
-- 👀 I’m interested in data analyst and data science
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python and Machine Learning
 
 
